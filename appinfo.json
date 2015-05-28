@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "kropochev.a@gmail.com",
+    "longName": "SpaceTime",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "SpaceTime",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "32cb862b-e63a-48cb-b63c-91c4fb9e661b",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
