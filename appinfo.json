@@ -19,5 +19,15 @@
     "versionLabel": "1.0",
     "watchapp": {
         "watchface": true
+    },
+    "resources": {
+        "media": [
+            {   
+                "type": "png",
+                "menuIcon": true,
+                "name": "MENU_ICON",
+                "file": "images/menu-icon.png"
+            }
+        ]
     }
 }
